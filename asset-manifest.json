@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DijkstraPathFindingVisualizer/static/css/main.685c3f61.css",
+    "main.js": "/DijkstraPathFindingVisualizer/static/js/main.7feaaabd.js",
+    "index.html": "/DijkstraPathFindingVisualizer/index.html",
+    "main.685c3f61.css.map": "/DijkstraPathFindingVisualizer/static/css/main.685c3f61.css.map",
+    "main.7feaaabd.js.map": "/DijkstraPathFindingVisualizer/static/js/main.7feaaabd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685c3f61.css",
+    "static/js/main.7feaaabd.js"
+  ]
+}
